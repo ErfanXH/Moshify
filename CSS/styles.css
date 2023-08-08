@@ -745,3 +745,9 @@ a{
         font-size: 1.6rem;
     }
 }
+
+/* Debugging */
+
+.logo-top {
+    padding-top: 2rem;
+}
