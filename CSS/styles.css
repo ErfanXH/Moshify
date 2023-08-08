@@ -671,6 +671,7 @@ a{
 
 .footer {
     background: #232323;
+    vertical-align: middle;
 }
 
 .footer a {
